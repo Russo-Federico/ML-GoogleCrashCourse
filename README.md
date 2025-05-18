@@ -2,6 +2,11 @@
 
 The exercises in cc/exercises are from the Google Crash Course on Machine Learning, modules:
 
+ML models:
+- Linear Regression
+- Logistic Regression
+- Classification
+
 Data:
 - Numerical Data
 - Categorical Data
@@ -18,6 +23,7 @@ Real-world ML
 - ML fairness
 
 (find out more: https://developers.google.com/machine-learning/crash-course)
+
 
 
 The exercises in pc/exercises are from the Google course on Image Classification, topics:
